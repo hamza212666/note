@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97591930339",
+    "project_id": "note-540e7",
+    "storage_bucket": "note-540e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97591930339:android:5e69198bb7a79d5a52c4d6",
+        "android_client_info": {
+          "package_name": "com.example.fech_mousel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97591930339-hovfccq2d752u4hs64hqa4mt775eh19j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-YmR_huGljWVU0wgGowu1oSKVDI-tWRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97591930339-hovfccq2d752u4hs64hqa4mt775eh19j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
